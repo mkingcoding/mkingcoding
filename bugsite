@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header id="header">
+        <div class="logo">
+      <img id="header-img" src="https://icons.iconarchive.com/icons/iconsmind/outline/256/Bug-icon.png"></img>
+    </div>
+      <h1>Bug-Catcher</h1>
+      <nav id="nav-bar">
+        <ul>
+                <li class="nav-item">
+                  <a href="#mission" class="nav-link">Our Mission</a>
+                </li>
+                <li class="nav-item">
+                  <a href="#benefits" class="nav-link">Benefits</a>
+                </li>
+                <li class="nav-item">
+                  <a href="#pricing" class="nav-link">Price</a>
+                </li>
+        </ul>
+                </nav>
+    </header>
+    <h2  id="mission">
+        Bugs are a big deal.
+    </h2>
+    <h3 id="caption">
+        Find Out Why
+    </h3>
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+    <input id="email" type="email" placeholder="Your Email Here" name="email">
+    </input>
+    <input id="submit" value="Submit" type="submit">
+    </input>
+    </form>
+    <section  id="benefits">
+        <div class="container" >
+            <p></p> There are many types of bugs that are beneficial. 
+        Bees, ladybugs, Net-winged insects, so many bugs are able to help in gardens and farms.
+        Our product exists to attract those bugs with our special spray that attracts the beneficial bugs, deflects the bad ones, and aid in plant growth.
+        </p>
+        </div>
+    </section>
+    <div class="imagegrid">
+    <img src="https://www.gannett-cdn.com/-mm-/20a1fb76521ef2cadf77bcfff4c94bdd1cd61a8d/c=0-501-2304-1803/local/-/media/2015/10/21/WIGroup/Appleton/635810158778684356-ThinkstockPhotos-468060496.jpg">
+    <img src="https://www.gardeninginthedesert.com/wp-content/uploads/green-lacewing.jpg">
+    <img src="https://uchealth-wp-uploads.s3.amazonaws.com/wp-content/uploads/sites/6/2022/07/06162029/Honeybee_Credit_LisaMason-web.jpg">
+</div>
+<div>
+    <ul>
+        <li class="benefits" >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        </li>
+        <li class="benefits"  id="benefits">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        </li>
+        <li class="benefits">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        </li>
+    </ul>
+    <section id="pricing">
+      <div class="gallons">
+        <div class="gallontype">One Gallon</div>
+        <h3 class="money">$60</h3>
+        <ol>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+        </ol>
+        <button class="btn" id="straight">Buy Now</button>
+      </div>
+      <div class="gallons">
+        <div class="gallontype">Three Gallon</div>
+        <h3 class="money">$160</h3>
+        <ol>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist"> Info Here</li>
+        </ol>
+        <button class="btn" id="straight" >Buy Now</button>
+      </div>
+      <div class="gallons">
+        <div class="gallontype">Five Gallon</div>
+        <h3 class="money">$250</h3>
+        <ol>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+          <li class="pricelist">Info Here</li>
+        </ol>
+        <button class="btn" id="straight">Buy Now</button>
+      </div>
+    </section>
+  </div>
+  </body>
+</html>
