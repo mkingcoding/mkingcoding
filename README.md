@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkingcoding
-- 👀 I’m interested in front-end development, HTML, CSS, Js, any anything else that will help me.
-- 🌱 I’m currently learning HTML and CSS by self teaching & freeCodeCamp
+- 👀 I’m interested in Python and SQL. 
+- 🌱 I’m currently learning Python and SQL via Mimo, self teaching. 
 - 💞️ I’m looking to collaborate on possibly a creative, interactive portfolio
-- 📫 I can be reached by email or twitter.
+- 📫 I can be reached by email. 
